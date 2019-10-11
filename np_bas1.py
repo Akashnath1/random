@@ -1,5 +1,5 @@
 import numpy as np
-
+#hello world
 # a = np.array([[2, 4, 6,8, 10, 12], [1, 3, 5, 7, 9, 11]])  # normal array
 # b = np.array([[(2, 5, 6), (3, 4)], [2, 3, 4]])  # list into arrat
 # c = np.array([[2, 3, 4], [3, 4, 5]], dtype=complex)  # complex data type
